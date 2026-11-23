@@ -22,6 +22,6 @@ Fourteen instrumental tracks for Album 125. No vocals. You live. Quiet worship. 
 All Glory to Lord Jesus Christ.
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album125_Instrumentals_You_Live/releases/tag/125.0.0
-Archive: album-125-instrumentals-you-live-cover
-Zenodo: https://doi.org/10.5281/zenodo.24465668
+1. GitHub: https://github.com/KJC-DNN/Album125_Instrumentals_You_Live/releases/tag/125.0.0
+2. Archive: album-125-instrumentals-you-live-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24465668
